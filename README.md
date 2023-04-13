@@ -1,4 +1,4 @@
-#API - Controle de Estoque
+# API - Controle de Estoque
 
 Criei uma API de controle de estoque, com o objetive de controlar a quantidade de cada item.
 Cada produto cadastrado tem como dados: Codigo Interno, Nome, Descrição, Preço e Quantidade de estoque.
